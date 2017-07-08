@@ -1,0 +1,18 @@
+{
+  "name": "mystery-game",
+  "version": "1.0.0",
+  "description": "numbers quiz",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isan",
+  "license": "ISC",
+  "dependencies": {
+    "Iap": "^0.1.4",
+    "game": "^1.0.3",
+    "inquirer": "^3.0.1",
+    "yargs": "^6.6.0",
+    "colors":"1.0.0"
+  }
+}
